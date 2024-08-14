@@ -1,4 +1,4 @@
-1. **Project Title**: Simple contact page with users information page by PHP and MySQL.
+1. **Project Title**: Simple contact page with users information page by PHP,MySQL and TailwindCSS.
 2. **Description**: A small practice project on PHP and MySQL.In this project user give user's info(Name,Email,Phone,Message) after that we can see all the users info who are submited the form.
 3. **Installation**: git clone "https://github.com/BishalDey908/Contact_Form-PHP_MySQL".
 4. **Usage**: 1.Run XAMPP.
